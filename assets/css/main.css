@@ -634,7 +634,10 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
-
+		.profile_pic{
+			width: 264px;
+			height: 264px;
+		}
 /* Image */
 
 	.image {
@@ -1671,3 +1674,5 @@ input, select, textarea {
 		#main #skill{
 			height: 525px;
 		}
+
+		
